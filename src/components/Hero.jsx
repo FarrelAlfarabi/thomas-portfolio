@@ -1,4 +1,5 @@
 import React from 'react';
+import heroImage from "../images/thomas-portrait.jpeg";
 
 export default function Hero({ data }) {
   return (
@@ -10,9 +11,8 @@ export default function Hero({ data }) {
         <a href="#projects" className="btn-primary">View My Work</a>
       </div>
       <div className="hero-image-container">
-        {/* Replace with actual profile image */}
         <img 
-          src="https://placehold.co/400x400/1a1a1a/ffffff?text=Thomas+Putra" 
+          src={heroImage}
           alt={data.name} 
           className="hero-image" 
         />
