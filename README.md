@@ -21,10 +21,10 @@ Then replace the placeholder divs in `src/App.js`:
 
 ```jsx
 // Hero section — replace the placeholder div with:
-<img src="/hero.jpg" alt="Faishal Zuhair" />
+<img src="/hero.jpg" alt="Thomas Raditya Arya Putra" />
 
 // About section — replace the placeholder div with:
-<img src="/about.jpg" alt="About Faishal" style={{ borderRadius: 'var(--radius-lg)', width: '100%', height: '100%', objectFit: 'cover' }} />
+<img src="/about.jpg" alt="About Thomas" style={{ borderRadius: 'var(--radius-lg)', width: '100%', height: '100%', objectFit: 'cover' }} />
 ```
 
 ## Updating content
@@ -70,7 +70,7 @@ The `vercel.json` already handles the OpenSSL legacy provider needed for React 1
 
 3. Update the `homepage` field in `package.json`:
    ```json
-   "homepage": "https://FarrelAlfarabi.github.io/faishal-portofolio"
+   "homepage": "https://FarrelAlfarabi.github.io/thomas-portfolio"
    ```
 
 4. Deploy to GitHub Pages:
@@ -110,8 +110,8 @@ The `vercel.json` already handles the OpenSSL legacy provider needed for React 1
 ### Repository Setup
 
 This project is configured for deployment to:
-- GitHub Repository: https://github.com/FarrelAlfarabi/faishal-portofolio.git
-- GitHub Pages URL: https://FarrelAlfarabi.github.io/faishal-portofolio
+- GitHub Repository: https://github.com/FarrelAlfarabi/thomas-portofolio.git
+- GitHub Pages URL: https://FarrelAlfarabi.github.io/thomas-portofolio
 
 ## Customizing colors
 
