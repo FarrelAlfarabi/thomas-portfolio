@@ -1,4 +1,4 @@
-# Faishal Zuhair — Portfolio
+# Thomas Arya Putra — Portfolio
 
 Personal portfolio website built with React. Deploys to Vercel via GitHub.
 
